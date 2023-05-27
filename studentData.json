@@ -1,0 +1,74 @@
+[
+    {
+       "id": 1, 
+       "name": "John",
+       "gender":"Male", 
+       "totalMarks": 85 
+    },
+
+    { 
+        "id": 2, 
+        "name": "Jane",
+        "gender":"Male", 
+        "totalMarks": 92 
+    },
+
+    { 
+        "id": 3, 
+        "name": "Alice",
+        "gender":"Male",  
+        "totalMarks": 78 
+    },
+
+    { 
+        "id":4 ,
+        "name":"arun",
+        "gender":"Male",
+        "totalMarks": 80
+    },
+
+    {
+        "id":5 ,
+        "name":"ram",
+        "gender":"Male",
+        "totalMarks":95
+    },
+
+    { 
+        "id":6 ,
+        "name":"priya",
+        "gender":"Female",
+        "totalMarks":79
+    },
+
+    { 
+        "id":7 ,
+        "name":"usha",
+        "gender":"Female",
+        "totalMarks":80
+    },
+
+    {
+        "id":8 ,
+        "name":"sundar",
+        "gender":"Male",
+        "totalMarks":92
+
+    },
+
+    {
+        "id":9,
+        "name":"uma",
+        "gender":"Female",
+        "totalMarks":69
+    },
+
+    {
+        "id":10,
+        "name":"hema",
+        "gender":"Female",
+        "totalMarks":85
+    }
+
+  ]
+  
