@@ -1,5 +1,5 @@
 # Assignment-
-Student API
+
 Objective:-
 The objective of this test assignment is to develop a grid system with filtering functionality in the backend. The grid system is designed to display student details(id, name , total marks etc) and allow filtering based on various columns. 
 The assignment involves developing the backend APIs responsible for loading student details with pagination, and implementing server-side filtering.
